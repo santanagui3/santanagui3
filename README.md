@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santanagui3
 - 👀 I’m interested in Front-end
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
